@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIndexes.a CMakeFiles/Indexes.dir/SSBTree.cpp.o CMakeFiles/Indexes.dir/Epoche.cpp.o
+/usr/bin/ranlib libIndexes.a
